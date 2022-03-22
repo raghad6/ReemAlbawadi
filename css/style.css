@@ -150,7 +150,7 @@ a {
 }
 .angle::before, .angle::after {
     bottom: 0;
-    content: "";
+    /* content: ""; */
     height: 0;
     position: absolute;
     width: 0;
