@@ -11,7 +11,7 @@
 
 	$(window).load(function() {
 		$('#loading').fadeOut();
-		$('#preloader').delay(200).fadeOut('slow');
+		$('#preloader').delay(100).fadeOut('slow');
 	});
 
     "use strict"; // Start of use strict
